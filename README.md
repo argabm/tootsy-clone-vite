@@ -8,3 +8,5 @@ How to run:
 2. `npm run dev`
 
 Deploy to Netlify: push this repo to GitHub, then connect the repo on Netlify and set build command to `npm run build`.
+
+Good luck
